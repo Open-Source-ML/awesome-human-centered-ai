@@ -34,7 +34,21 @@
 
 ### Explainable ML
 
+- [Understanding the role of individual units in a deep neural network](https://www.pnas.org/doi/10.1073/pnas.1907375117), PNAS, 2020 | [code](https://github.com/davidbau/dissect)
+- [Feature Visualization](https://distill.pub/2017/feature-visualization/), Distill, 2017
+- [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/), Distill, 2018
+- [CAM, and many CAM variants (Grad-CAM, Grad-CAM++, Score-CAM, Ablation-CAM and XGrad-CAM)](https://github.com/jacobgil/pytorch-grad-cam)
+- [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129), NeurIPS, 2019 | [code](https://github.com/amiratag/ACE)
+
 ### Debate on explainable ML
+
+- [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490), ICML, 2016
+- [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292), NeurIPS, 2018 | [code](https://github.com/adebayoj/sanity_checks_saliency)
+- [On the importance of single directions for generalization](https://arxiv.org/abs/1803.06959), ICLR, 2018 | [code](https://github.com/toshalpatel/Single-Directions)
+- [Revisiting the Importance of Individual Units in CNNs via Ablation](https://arxiv.org/abs/1806.02891), arXiv, 2018
+- [Towards falsifiable interpretability research](https://arxiv.org/abs/2010.12016), NeurIPS, 2020 
+- [The false hope of current approaches to explainable artificial intelligence in health care](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext), The Lancet, 2021
+- [Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation](https://openreview.net/forum?id=xNOVfCCvDpM), ICLR, 2022
 
 ### AI bias (Dataset bias and Algorithmic bias)
 
