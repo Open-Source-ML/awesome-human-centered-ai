@@ -52,9 +52,25 @@
 
 ### AI bias (Dataset bias and Algorithmic bias)
 
+- [Unbiased Look at Dataset Bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf), CVPR, 2011
+- [Women also Snowboard: Overcoming Bias in Captioning Models](https://arxiv.org/abs/1803.09797), ECCV, 2018
+- [Moving beyond “algorithmic bias is a data problem”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8085589/), Patterns, 2021
+- [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+- [Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/)
+
 ### AI robustness
 
+- [Physical Adversarial Examples for Object Detectors](https://arxiv.org/abs/1807.07769), USENIX WOOT 2018
+- [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures](https://arxiv.org/abs/2006.16974), USENIX Security 2020
+- [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175), NeurIPS, 2019 | [code](https://github.com/MadryLab/robustness)
+- [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261), ICLR, 2019 | [code](https://github.com/hendrycks/robustness)
+- [Noise or Signal: The Role of Image Backgrounds in Object Recognition](https://arxiv.org/abs/2006.09994), ICLR, 2021 | [code](https://github.com/MadryLab/backgrounds_challenge)
+- [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231), ICLR, 2019 | [code](https://github.com/rgeirhos/Stylized-ImageNet)
+- [Learning Independent Causal Mechanisms](https://arxiv.org/abs/1712.00961), ICML, 2018 | [code](https://github.com/kevtimova/licms)
+
 ### Human-AI Collaboration
+
+- []()
 
 ### Human-AI Creation
 
