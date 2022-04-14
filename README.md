@@ -98,6 +98,7 @@
 
 ### Superhuman AI and knowledge generation
 
-
-
+- [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z), Nature, 2019
+- [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259), arXiv, 2021
+- [Outracing champion Gran Turismo drivers with deep reinforcement learning](https://www.nature.com/articles/s41586-021-04357-7), Nature, 2022
 
