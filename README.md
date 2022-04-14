@@ -1,4 +1,4 @@
-# Awesome Human-Centered AI
+# Awesome Human-Centered AI (HCAI)
 
 ## Research Papers
 
@@ -102,3 +102,25 @@
 - [Acquisition of Chess Knowledge in AlphaZero](https://arxiv.org/abs/2111.09259), arXiv, 2021
 - [Outracing champion Gran Turismo drivers with deep reinforcement learning](https://www.nature.com/articles/s41586-021-04357-7), Nature, 2022
 
+
+## HCAI Courses
+
+- HCAI for CV
+  - [Human-Centered AI for Computer Vision and Machine Autonomy, UCLA](https://bruinlearn.ucla.edu/courses/129743) 
+- HCAI for NLP
+  - [Human-Centered Machine Learning, UChicago](https://github.com/ChicagoHAI/human-centered-machine-learning)
+- HCAI for Human-Computer Interaction (HCI)
+  - [Human-AI Interaction, CMU](https://haiicmu.github.io/) 
+  - [Human-Computer Interaction, UCLA](https://uclahci.notion.site/2022-Winter-ECE-209AS-Human-Computer-Interaction-2a570caf309b49c1b5192bdb1f766d15)
+
+
+## HCAI Workshop
+
+- [HCAI, NeurIPS2021](https://sites.google.com/view/hcai-human-centered-ai-neurips/home)
+- [Human-Centered Explainable AI (HCXAI), CHI 2022](https://hcxai.jimdosite.com/)
+- [Human-Centered AI for Computer Vision, CVPR 2022](https://human-centeredai.github.io/)
+
+
+## Acknowledgement
+
+In this repo, currrent module list and paper list are based on [Bolei Zhou's HCAI course at UCLA](https://boleizhou.github.io/teaching/), feel free to add any new papers or modules!
