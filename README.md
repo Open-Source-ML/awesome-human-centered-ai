@@ -70,9 +70,20 @@
 
 ### Human-AI Collaboration
 
-- []()
+- [Human-Centered Tools for Coping with Imperfect Algorithms during Medical Decision-Making](https://arxiv.org/abs/1902.02960), CHI, 2019
+- [Human–computer collaboration for skin cancer recognition](https://www.nature.com/articles/s41591-020-0942-0), Nature Medicine, 2020
+- [To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making](https://arxiv.org/abs/2102.09692), ACM HCI, 2021
+- [OpenAI Codex](https://openai.com/blog/openai-codex/)
 
 ### Human-AI Creation
+
+- [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291), CVPR, 2019 | [code](https://github.com/NVlabs/SPADE)
+- [GANSpace: Discovering Interpretable GAN Controls](https://arxiv.org/abs/2004.02546), NeurIPS, 2020 | [code](https://github.com/harskish/ganspace)
+- [Sketch Your Own GAN](https://arxiv.org/abs/2108.02774), ICCV, 2021 | [code](https://github.com/PeterWang512/GANSketching)
+- [LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions](https://arxiv.org/abs/2104.00820), ICCV, 2021 | [code](https://github.com/catlab-team/latentclr)
+- [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/abs/2203.13131), arXiv, 2022 | [code](https://github.com/CasualGANPapers/Make-A-Scene)
+- [LayoutGAN: Synthesizing Graphic Layouts With Vector-Wireframe Adversarial Networks](https://ieeexplore.ieee.org/document/8948239), TPAMI, 2021
+- [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/abs/2007.06600), CVPR, 2021 | [code](https://github.com/genforce/sefa)
 
 ### Human-in-the-loop autonomy
 
