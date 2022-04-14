@@ -123,4 +123,4 @@
 
 ## Acknowledgement
 
-In this repo, currrent module list and paper list are based on [Bolei Zhou's HCAI course at UCLA](https://boleizhou.github.io/teaching/), feel free to add any new papers or modules!
+In this repo, currrent module list and paper list mainly based on [Bolei Zhou's HCAI course at UCLA](https://boleizhou.github.io/teaching/), feel free to add any new papers or modules!
