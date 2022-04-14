@@ -81,11 +81,20 @@
 - [GANSpace: Discovering Interpretable GAN Controls](https://arxiv.org/abs/2004.02546), NeurIPS, 2020 | [code](https://github.com/harskish/ganspace)
 - [Sketch Your Own GAN](https://arxiv.org/abs/2108.02774), ICCV, 2021 | [code](https://github.com/PeterWang512/GANSketching)
 - [LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions](https://arxiv.org/abs/2104.00820), ICCV, 2021 | [code](https://github.com/catlab-team/latentclr)
-- [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/abs/2203.13131), arXiv, 2022 | [code](https://github.com/CasualGANPapers/Make-A-Scene)
 - [LayoutGAN: Synthesizing Graphic Layouts With Vector-Wireframe Adversarial Networks](https://ieeexplore.ieee.org/document/8948239), TPAMI, 2021
 - [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/abs/2007.06600), CVPR, 2021 | [code](https://github.com/genforce/sefa)
+- [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/abs/2203.13131), arXiv, 2022 | [code](https://github.com/CasualGANPapers/Make-A-Scene)
 
 ### Human-in-the-loop autonomy
+
+- [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741), NeurIPS, 2017 | [code](https://github.com/HumanCompatibleAI/imitation)
+- [Shared Autonomy via Deep Reinforcement Learning](https://arxiv.org/abs/1802.01744), RSS, 2018 | [code](https://github.com/rddy/deepassist)
+- [Understanding RL Vision](https://distill.pub/2020/understanding-rl-vision/), Distill, 2020
+- [Learning from Interventions: Human-robot interaction as both explicit and implicit feedback](http://www.roboticsproceedings.org/rss16/p055.pdf), RSS, 2020 
+- [PEBBLE: Feedback-Efficient Interactive Reinforcement Learning via Relabeling Experience and Unsupervised Pre-training](https://arxiv.org/abs/2106.05091), ICML, 2021 | [code](https://sites.google.com/view/icml21pebble)
+- [Pragmatic Image Compression for Human-in-the-Loop Decision-Making](https://arxiv.org/abs/2108.04219), NeurIPS, 2021 | [code](https://github.com/rddy/pico)
+- [Recent advances in leveraging human guidance for sequential decision-making tasks](https://link.springer.com/article/10.1007/s10458-021-09514-w?noAccess=true)
+- [Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization ](https://openreview.net/forum?id=0cgU-BZp2ky), ICLR, 2022
 
 ### Superhuman AI and knowledge generation
 
